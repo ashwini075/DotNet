@@ -112,7 +112,7 @@ namespace Employee
         public Employee(string name="Noname",decimal basic=1000 ,short dept=10)
         {
             id++;
-            this.EmpNo = id;
+            this.empNo = id;
             this.name = name;
             this.basic = basic;
             this.dept = dept;
