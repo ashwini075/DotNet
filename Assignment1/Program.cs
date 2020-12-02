@@ -58,9 +58,10 @@ namespace Employee
             }
         }
   
+       private int empNo;
         public int EmpNo
         {
-            get;
+            get{return empNo;};
         }
         private decimal basic;
         public decimal Basic
@@ -107,11 +108,8 @@ namespace Employee
             return sal;
         }
         static int id = 0;
-        public Employee()
-        {
-
-        }
-        public Employee(string name,decimal basic ,short dept)
+       
+        public Employee(string name="Noname",decimal basic=1000 ,short dept=10)
         {
             id++;
             this.EmpNo = id;
@@ -120,19 +118,7 @@ namespace Employee
             this.dept = dept;
 
        }
-        public Employee(string name, decimal basic)
-        {
-            id++;
-            this.EmpNo = id;
-            this.name = name;
-            this.basic = basic;
-        }
-        public Employee(string name)
-        {
-            id++;
-            this.EmpNo = id;
-            this.name = name;
-        }
+       
 
     }
 
