@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\.Net\Day5\NullableTypes\bin\Debug\NullableTypes.exe.config
+C:\Users\Admin\Desktop\.Net\Day5\NullableTypes\bin\Debug\NullableTypes.exe
+C:\Users\Admin\Desktop\.Net\Day5\NullableTypes\bin\Debug\NullableTypes.pdb
+C:\Users\Admin\Desktop\.Net\Day5\NullableTypes\obj\Debug\NullableTypes.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\.Net\Day5\NullableTypes\obj\Debug\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net\Day5\NullableTypes\obj\Debug\NullableTypes.exe
+C:\Users\Admin\Desktop\.Net\Day5\NullableTypes\obj\Debug\NullableTypes.pdb

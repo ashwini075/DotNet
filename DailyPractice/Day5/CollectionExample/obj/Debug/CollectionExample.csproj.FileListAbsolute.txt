@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\.Net\Day5\CollectionExample\bin\Debug\CollectionExample.exe.config
+C:\Users\Admin\Desktop\.Net\Day5\CollectionExample\bin\Debug\CollectionExample.exe
+C:\Users\Admin\Desktop\.Net\Day5\CollectionExample\bin\Debug\CollectionExample.pdb
+C:\Users\Admin\Desktop\.Net\Day5\CollectionExample\obj\Debug\CollectionExample.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\.Net\Day5\CollectionExample\obj\Debug\CollectionExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net\Day5\CollectionExample\obj\Debug\CollectionExample.exe
+C:\Users\Admin\Desktop\.Net\Day5\CollectionExample\obj\Debug\CollectionExample.pdb

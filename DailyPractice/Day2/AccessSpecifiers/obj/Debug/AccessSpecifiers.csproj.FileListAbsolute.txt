@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\.Net\Day2\AccessSpecifiers\bin\Debug\AccessSpecifiers.dll
+C:\Users\Admin\Desktop\.Net\Day2\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+C:\Users\Admin\Desktop\.Net\Day2\AccessSpecifiers\obj\Debug\AccessSpecifiers.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\.Net\Day2\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net\Day2\AccessSpecifiers\obj\Debug\AccessSpecifiers.dll
+C:\Users\Admin\Desktop\.Net\Day2\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb

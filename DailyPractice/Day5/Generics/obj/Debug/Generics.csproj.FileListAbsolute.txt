@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\.Net\Day5\Generics\bin\Debug\Generics.exe.config
+C:\Users\Admin\Desktop\.Net\Day5\Generics\bin\Debug\Generics.exe
+C:\Users\Admin\Desktop\.Net\Day5\Generics\bin\Debug\Generics.pdb
+C:\Users\Admin\Desktop\.Net\Day5\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\.Net\Day5\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net\Day5\Generics\obj\Debug\Generics.exe
+C:\Users\Admin\Desktop\.Net\Day5\Generics\obj\Debug\Generics.pdb

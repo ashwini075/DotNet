@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\.Net\Day2\ClassBasicc\obj\Debug\ClassBasicc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net\Day2\ClassBasicc\bin\Debug\ClassBasicc.exe.config
+C:\Users\Admin\Desktop\.Net\Day2\ClassBasicc\bin\Debug\ClassBasicc.exe
+C:\Users\Admin\Desktop\.Net\Day2\ClassBasicc\bin\Debug\ClassBasicc.pdb
+C:\Users\Admin\Desktop\.Net\Day2\ClassBasicc\obj\Debug\ClassBasicc.exe
+C:\Users\Admin\Desktop\.Net\Day2\ClassBasicc\obj\Debug\ClassBasicc.pdb

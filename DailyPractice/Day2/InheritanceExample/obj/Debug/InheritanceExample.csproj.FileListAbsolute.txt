@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\.Net\Day2\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+C:\Users\Admin\Desktop\.Net\Day2\InheritanceExample\bin\Debug\InheritanceExample.exe
+C:\Users\Admin\Desktop\.Net\Day2\InheritanceExample\bin\Debug\InheritanceExample.pdb
+C:\Users\Admin\Desktop\.Net\Day2\InheritanceExample\bin\Debug\AccessSpecifiers.dll
+C:\Users\Admin\Desktop\.Net\Day2\InheritanceExample\bin\Debug\AccessSpecifiers.pdb
+C:\Users\Admin\Desktop\.Net\Day2\InheritanceExample\obj\Debug\InheritanceExample.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\.Net\Day2\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net\Day2\InheritanceExample\obj\Debug\InheritanceExample.csproj.CopyComplete
+C:\Users\Admin\Desktop\.Net\Day2\InheritanceExample\obj\Debug\InheritanceExample.exe
+C:\Users\Admin\Desktop\.Net\Day2\InheritanceExample\obj\Debug\InheritanceExample.pdb
