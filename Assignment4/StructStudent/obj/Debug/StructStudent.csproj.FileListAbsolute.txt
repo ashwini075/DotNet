@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\DotNet\Assignment4\StructStudent\bin\Debug\StructStudent.exe.config
+C:\Users\Admin\Desktop\DotNet\Assignment4\StructStudent\bin\Debug\StructStudent.exe
+C:\Users\Admin\Desktop\DotNet\Assignment4\StructStudent\bin\Debug\StructStudent.pdb
+C:\Users\Admin\Desktop\DotNet\Assignment4\StructStudent\obj\Debug\StructStudent.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\Assignment4\StructStudent\obj\Debug\StructStudent.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\Assignment4\StructStudent\obj\Debug\StructStudent.exe
+C:\Users\Admin\Desktop\DotNet\Assignment4\StructStudent\obj\Debug\StructStudent.pdb

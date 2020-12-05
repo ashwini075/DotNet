@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\DotNet\Assignment4\CdacStudents\bin\Debug\CdacStudents.exe.config
+C:\Users\Admin\Desktop\DotNet\Assignment4\CdacStudents\bin\Debug\CdacStudents.exe
+C:\Users\Admin\Desktop\DotNet\Assignment4\CdacStudents\bin\Debug\CdacStudents.pdb
+C:\Users\Admin\Desktop\DotNet\Assignment4\CdacStudents\obj\Debug\CdacStudents.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\Assignment4\CdacStudents\obj\Debug\CdacStudents.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\Assignment4\CdacStudents\obj\Debug\CdacStudents.exe
+C:\Users\Admin\Desktop\DotNet\Assignment4\CdacStudents\obj\Debug\CdacStudents.pdb

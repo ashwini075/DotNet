@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\DotNet\Assignment4\ArrayEx\bin\Debug\ArrayEx.exe.config
+C:\Users\Admin\Desktop\DotNet\Assignment4\ArrayEx\bin\Debug\ArrayEx.exe
+C:\Users\Admin\Desktop\DotNet\Assignment4\ArrayEx\bin\Debug\ArrayEx.pdb
+C:\Users\Admin\Desktop\DotNet\Assignment4\ArrayEx\obj\Debug\ArrayEx.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\Assignment4\ArrayEx\obj\Debug\ArrayEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\Assignment4\ArrayEx\obj\Debug\ArrayEx.exe
+C:\Users\Admin\Desktop\DotNet\Assignment4\ArrayEx\obj\Debug\ArrayEx.pdb
