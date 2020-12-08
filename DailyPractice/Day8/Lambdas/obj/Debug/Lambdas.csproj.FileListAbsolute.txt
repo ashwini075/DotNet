@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\DotNet\Day8\Lambdas\bin\Debug\Lambdas.exe.config
+C:\Users\Admin\Desktop\DotNet\Day8\Lambdas\bin\Debug\Lambdas.exe
+C:\Users\Admin\Desktop\DotNet\Day8\Lambdas\bin\Debug\Lambdas.pdb
+C:\Users\Admin\Desktop\DotNet\Day8\Lambdas\obj\Debug\Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\Day8\Lambdas\obj\Debug\Lambdas.exe
+C:\Users\Admin\Desktop\DotNet\Day8\Lambdas\obj\Debug\Lambdas.pdb
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\Lambdas\bin\Debug\Lambdas.exe.config
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\Lambdas\bin\Debug\Lambdas.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\Lambdas\bin\Debug\Lambdas.pdb
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\Lambdas\obj\Debug\Lambdas.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\Lambdas\obj\Debug\Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\Lambdas\obj\Debug\Lambdas.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\Lambdas\obj\Debug\Lambdas.pdb

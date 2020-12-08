@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\DotNet\Day7\EventHandling\bin\Debug\EventHandling.exe.config
+C:\Users\Admin\Desktop\DotNet\Day7\EventHandling\bin\Debug\EventHandling.exe
+C:\Users\Admin\Desktop\DotNet\Day7\EventHandling\bin\Debug\EventHandling.pdb
+C:\Users\Admin\Desktop\DotNet\Day7\EventHandling\obj\Debug\EventHandling.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\Day7\EventHandling\obj\Debug\EventHandling.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\Day7\EventHandling\obj\Debug\EventHandling.exe
+C:\Users\Admin\Desktop\DotNet\Day7\EventHandling\obj\Debug\EventHandling.pdb

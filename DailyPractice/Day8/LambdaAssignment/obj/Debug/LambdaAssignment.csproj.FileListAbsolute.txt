@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\LambdaAssignment\obj\Debug\LambdaAssignment.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day8\LambdaAssignment\obj\Debug\LambdaAssignment.pdb

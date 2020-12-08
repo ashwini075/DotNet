@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\DotNet\Day8\AnonMethodsAndLambdas\bin\Debug\AnonMethodsAndLambdas.exe.config
+C:\Users\Admin\Desktop\DotNet\Day8\AnonMethodsAndLambdas\bin\Debug\AnonMethodsAndLambdas.exe
+C:\Users\Admin\Desktop\DotNet\Day8\AnonMethodsAndLambdas\bin\Debug\AnonMethodsAndLambdas.pdb
+C:\Users\Admin\Desktop\DotNet\Day8\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\Day8\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\Day8\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.exe
+C:\Users\Admin\Desktop\DotNet\Day8\AnonMethodsAndLambdas\obj\Debug\AnonMethodsAndLambdas.pdb

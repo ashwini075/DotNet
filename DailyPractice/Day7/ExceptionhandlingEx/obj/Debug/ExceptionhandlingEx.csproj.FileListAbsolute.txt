@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\DotNet\Day7\ExceptionhandlingEx\bin\Debug\ExceptionhandlingEx.exe.config
+C:\Users\Admin\Desktop\DotNet\Day7\ExceptionhandlingEx\bin\Debug\ExceptionhandlingEx.exe
+C:\Users\Admin\Desktop\DotNet\Day7\ExceptionhandlingEx\bin\Debug\ExceptionhandlingEx.pdb
+C:\Users\Admin\Desktop\DotNet\Day7\ExceptionhandlingEx\obj\Debug\ExceptionhandlingEx.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\Day7\ExceptionhandlingEx\obj\Debug\ExceptionhandlingEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\Day7\ExceptionhandlingEx\obj\Debug\ExceptionhandlingEx.exe
+C:\Users\Admin\Desktop\DotNet\Day7\ExceptionhandlingEx\obj\Debug\ExceptionhandlingEx.pdb

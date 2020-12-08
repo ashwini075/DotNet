@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionhandlingEx", "ExceptionhandlingEx\ExceptionhandlingEx.csproj", "{B8DDA44C-5B6D-4BBD-AAFA-A13E8D04C2F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandling", "EventHandling\EventHandling.csproj", "{91B4EBB8-CEAE-4C1E-B912-D73CD025BCA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8DDA44C-5B6D-4BBD-AAFA-A13E8D04C2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DDA44C-5B6D-4BBD-AAFA-A13E8D04C2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DDA44C-5B6D-4BBD-AAFA-A13E8D04C2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DDA44C-5B6D-4BBD-AAFA-A13E8D04C2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B4EBB8-CEAE-4C1E-B912-D73CD025BCA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B4EBB8-CEAE-4C1E-B912-D73CD025BCA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B4EBB8-CEAE-4C1E-B912-D73CD025BCA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B4EBB8-CEAE-4C1E-B912-D73CD025BCA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C7ED500-AF83-4B95-801B-582009E47637}
+	EndGlobalSection
+EndGlobal
