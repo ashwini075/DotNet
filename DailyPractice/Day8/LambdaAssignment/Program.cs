@@ -31,6 +31,8 @@ namespace LambdaAssignment
 
             //4. bool IsEven(int num) -> returns true if the number is an even number
             Func<int, bool> o3 = num => (num%2 ==0);
+            Predicate<int> p = num => num % 2==0;
+            Console.WriteLine(p(44));
             Console.WriteLine(o3(45));
 
             // bool IsGreaterThan10000(Employee e) -> returns true if the Basic Salary is > 10000 */

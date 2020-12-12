@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\DotNet\Day6\DelegatesEx\bin\Debug\DelegatesEx.exe.config
+C:\Users\Admin\Desktop\DotNet\Day6\DelegatesEx\bin\Debug\DelegatesEx.exe
+C:\Users\Admin\Desktop\DotNet\Day6\DelegatesEx\bin\Debug\DelegatesEx.pdb
+C:\Users\Admin\Desktop\DotNet\Day6\DelegatesEx\obj\Debug\DelegatesEx.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\Day6\DelegatesEx\obj\Debug\DelegatesEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\Day6\DelegatesEx\obj\Debug\DelegatesEx.exe
+C:\Users\Admin\Desktop\DotNet\Day6\DelegatesEx\obj\Debug\DelegatesEx.pdb

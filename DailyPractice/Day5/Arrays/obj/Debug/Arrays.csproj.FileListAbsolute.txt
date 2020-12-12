@@ -5,3 +5,10 @@ C:\Users\Admin\Desktop\.Net\Day5\Arrays\obj\Debug\Arrays.csproj.CoreCompileInput
 C:\Users\Admin\Desktop\.Net\Day5\Arrays\obj\Debug\Arrays.exe
 C:\Users\Admin\Desktop\.Net\Day5\Arrays\obj\Debug\Arrays.pdb
 C:\Users\Admin\Desktop\.Net\Day5\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day5\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day5\Arrays\bin\Debug\Arrays.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day5\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day5\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day5\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day5\Arrays\obj\Debug\Arrays.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day5\Arrays\obj\Debug\Arrays.pdb

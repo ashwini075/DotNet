@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day9\LinqExample\bin\Debug\LinqExample.exe.config
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day9\LinqExample\bin\Debug\LinqExample.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day9\LinqExample\bin\Debug\LinqExample.pdb
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day9\LinqExample\obj\Debug\LinqExample.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day9\LinqExample\obj\Debug\LinqExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day9\LinqExample\obj\Debug\LinqExample.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day9\LinqExample\obj\Debug\LinqExample.pdb

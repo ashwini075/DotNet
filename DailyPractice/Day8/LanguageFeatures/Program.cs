@@ -23,7 +23,7 @@ namespace LanguageFeatures
         }
     }
 }
-
+//object Initalizers
 namespace LanguageFeatures2
 {
     public class Class1
@@ -42,7 +42,7 @@ namespace LanguageFeatures2
     }
     public class Program
     {
-        static void Main()
+        static void Main2()
         {
             Class1 o = new Class1();
             o.i = 232;
@@ -55,6 +55,30 @@ namespace LanguageFeatures2
         }
     }
 }
+//anonymous type
+namespace LanguageFeatures3
+{
+    class Program
+    {
+        static void Main() // ANONYMOUS TYPES
+        {
+            //Class1 o = new Class1();
+            //Class1 o3 = new Class1 { i = 123, j = 456 };
+            var myCar = new { Color = "Red", Model = "Ferrari", Version = "V1", CurrentSpeed = 75 };
+
+            var myCar2 = new { Color = "Blue", Model = "Merc", Version = "V2" };
+
+            Console.WriteLine("{0} {1} {2} {3}", myCar.Color, myCar.Model, myCar.Version, myCar.CurrentSpeed);
+
+            Console.WriteLine(myCar.GetType().ToString());
+            Console.WriteLine(myCar2.GetType().ToString());
+
+            Console.ReadLine();
+        }
+
+    }
+}
+//
 namespace LanguageFeatures4
 {
     class Program
@@ -87,3 +111,44 @@ namespace LanguageFeatures4
         }
     }
 }
+//partial methods
+namespace PartialMethods
+{
+    public class MainClass
+    {
+        public static void Main()
+        {
+            Class1 o = new Class1();
+            Console.WriteLine(o.Check());
+            Console.ReadLine();
+        }
+    }
+
+    //Partial methods can only be defined within a partial class.
+    //Partial methods must return void.
+    //Partial methods can be static or instance level.
+    //Partial methods cannnot have out params
+    //Partial methods are always implicitly private.
+    public partial class Class1
+    {
+        private bool isValid = true;
+        partial void Validate();
+        public bool Check()
+        {
+            //.....
+            Validate();
+            return isValid;
+        }
+    }
+
+    public partial class Class1
+    {
+        partial void Validate()
+        {
+            //perform some validation code here
+            isValid = false;
+        }
+    }
+
+}
+

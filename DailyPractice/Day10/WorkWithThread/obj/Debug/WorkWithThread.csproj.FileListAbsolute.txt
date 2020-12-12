@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\DotNet\Day10\WorkWithThread\bin\Debug\WorkWithThread.exe.config
+C:\Users\Admin\Desktop\DotNet\Day10\WorkWithThread\bin\Debug\WorkWithThread.exe
+C:\Users\Admin\Desktop\DotNet\Day10\WorkWithThread\bin\Debug\WorkWithThread.pdb
+C:\Users\Admin\Desktop\DotNet\Day10\WorkWithThread\obj\Debug\WorkWithThread.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\Day10\WorkWithThread\obj\Debug\WorkWithThread.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\Day10\WorkWithThread\obj\Debug\WorkWithThread.exe
+C:\Users\Admin\Desktop\DotNet\Day10\WorkWithThread\obj\Debug\WorkWithThread.pdb
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day10\WorkWithThread\obj\Debug\WorkWithThread.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day10\WorkWithThread\obj\Debug\WorkWithThread.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day10\WorkWithThread\obj\Debug\WorkWithThread.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day10\WorkWithThread\obj\Debug\WorkWithThread.pdb
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day10\WorkWithThread\bin\Debug\WorkWithThread.exe.config
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day10\WorkWithThread\bin\Debug\WorkWithThread.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day10\WorkWithThread\bin\Debug\WorkWithThread.pdb

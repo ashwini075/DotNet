@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\DotNet\Day11\ReflectionExample\bin\Debug\ReflectionExample.exe.config
+C:\Users\Admin\Desktop\DotNet\Day11\ReflectionExample\bin\Debug\ReflectionExample.exe
+C:\Users\Admin\Desktop\DotNet\Day11\ReflectionExample\bin\Debug\ReflectionExample.pdb
+C:\Users\Admin\Desktop\DotNet\Day11\ReflectionExample\obj\Debug\ReflectionExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\Day11\ReflectionExample\obj\Debug\ReflectionExample.exe
+C:\Users\Admin\Desktop\DotNet\Day11\ReflectionExample\obj\Debug\ReflectionExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\DotNet\Day11\IndexersEx\bin\Debug\IndexersEx.exe.config
+C:\Users\Admin\Desktop\DotNet\Day11\IndexersEx\bin\Debug\IndexersEx.exe
+C:\Users\Admin\Desktop\DotNet\Day11\IndexersEx\bin\Debug\IndexersEx.pdb
+C:\Users\Admin\Desktop\DotNet\Day11\IndexersEx\obj\Debug\IndexersEx.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\Day11\IndexersEx\obj\Debug\IndexersEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\Day11\IndexersEx\obj\Debug\IndexersEx.exe
+C:\Users\Admin\Desktop\DotNet\Day11\IndexersEx\obj\Debug\IndexersEx.pdb
