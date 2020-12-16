@@ -186,5 +186,72 @@ namespace WpfApp2
 
             cn.Close();
         }
+
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            SqlConnection cn = new SqlConnection();
+            cn.ConnectionString = @"Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=JKDec20;Integrated Security=true";
+
+            cn.Open();
+
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = cn;
+            cmd.CommandType = CommandType.Text;
+            cmd.CommandText = "select count(*) from Employees";
+            MessageBox.Show(cmd.CommandText);
+            try
+            {
+                cmd.ExecuteScalar();
+                MessageBox.Show(cmd.ExecuteScalar().ToString());
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            cn.Close();
+             MessageBox.Show("ok!!");
+        }
+
+        private void Button_Click_5(object sender, RoutedEventArgs e)
+        {
+            SqlConnection cn = new SqlConnection();
+            cn.ConnectionString = @"Data Source=(localdb)\MsSqlLocalDb;Initial Catalog=JKDec20;Integrated Security=true";
+
+            cn.Open();
+            SqlTransaction t = cn.BeginTransaction();
+
+            SqlCommand cmd = new SqlCommand();
+
+            cmd.Connection = cn;
+            cmd.Transaction = t;
+            cmd.CommandType = CommandType.Text;
+            cmd.CommandText = "insert into Employees values(10,'sainath',23243,10)";
+            //MessageBox.Show(cmd.CommandText);
+            SqlCommand cmd2 = new SqlCommand();
+
+            cmd2.Connection = cn;
+            cmd2.Transaction = t;
+            cmd2.CommandType = CommandType.Text;
+            cmd2.CommandText = "insert into Employees values(11,'rushi',23243,10)";
+
+            try
+            {
+                cmd.ExecuteScalar();
+                cmd2.ExecuteScalar();
+                t.Commit();
+                MessageBox.Show("commit");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                t.Rollback();
+            }
+            finally
+            {
+                cn.Close();
+                MessageBox.Show("ok!!");
+            }
+            
+        }
     }
 }

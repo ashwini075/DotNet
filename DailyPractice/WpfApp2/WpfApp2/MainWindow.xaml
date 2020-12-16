@@ -15,11 +15,13 @@
         <TextBox x:Name="txtBasic" HorizontalAlignment="Left" Height="23" Margin="102,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <Label Content="DeptNo" HorizontalAlignment="Left" Margin="35,147,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtDeptNo" HorizontalAlignment="Left" Height="23" Margin="102,147,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <Button x:Name="btnInsert" Content="Insert" HorizontalAlignment="Left" Margin="77,205,0,0" VerticalAlignment="Top" Width="75" Click="btnInsert_Click" />
-        <Button Content="Insert with Parameters" HorizontalAlignment="Left" Margin="187,205,0,0" VerticalAlignment="Top" Width="185" Click="Button_Click" />
+        <Button x:Name="btnInsert" Content="Insert" HorizontalAlignment="Left" Margin="85,205,0,0" VerticalAlignment="Top" Width="75" Click="btnInsert_Click" />
+        <Button Content="Insert with Parameters" HorizontalAlignment="Left" Margin="177,205,0,0" VerticalAlignment="Top" Width="185" Click="Button_Click" />
         <Button Content="Insert with Stored Procedure" HorizontalAlignment="Left" Margin="85,246,0,0" VerticalAlignment="Top" Width="277" Click="Button_Click_1" />
-        <Button Content="Update" HorizontalAlignment="Left" Margin="72,289,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
-        <Button Content="Delete" HorizontalAlignment="Left" Margin="206,289,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3"/>
+        <Button Content="Update" HorizontalAlignment="Left" Margin="85,294,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="287,294,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3" RenderTransformOrigin="0.512,0.875"/>
+        <Button Content="Execute Scalar" HorizontalAlignment="Left" Margin="85,333,0,0" VerticalAlignment="Top" Width="277" Click="Button_Click_4"/>
+        <Button Content="Transaction" HorizontalAlignment="Left" Margin="85,373,0,0" VerticalAlignment="Top" Width="167" Click="Button_Click_5"/>
 
     </Grid>
 </Window>
