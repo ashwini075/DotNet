@@ -19,3 +19,14 @@ C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\obj\Debug\Window2.g.
 C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\obj\Debug\Window2.baml
 C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\obj\Debug\Window3.g.cs
 C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\obj\Debug\Window3.baml
+C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\obj\Debug\Window5.g.cs
+C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\obj\Debug\Window5.baml
+C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Desktop\DotNet\DailyPractice\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CopyComplete

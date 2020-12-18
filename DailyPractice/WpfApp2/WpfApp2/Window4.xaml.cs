@@ -11,6 +11,8 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Configuration;
+using System.Data.SqlClient;
 
 namespace WpfApp2
 {
@@ -26,7 +28,7 @@ namespace WpfApp2
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+          
         }
     }
 }
