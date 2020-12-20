@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace BasicClassConcepts
 {
+
     class Program
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello World!!!");
-            // System.Console.ReadLine();
+            Console.WriteLine("Hello World!!!");
+
             s1.Program1 ref1 = new s1.Program1();
             ref1.add();
-            System.Console.WriteLine(ref1.Add(20, 30));
-                
+           Console.WriteLine(ref1.Add(20, 30,10,20));
+
+            Console.ReadLine();
         }
     }
 }

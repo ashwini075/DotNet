@@ -1,0 +1,21 @@
+﻿<Window x:Class="BoxAssignment.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BoxAssignment"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="lstNames" HorizontalAlignment="Left" Height="220" Margin="36,89,0,0" VerticalAlignment="Top" Width="203" SelectionMode="Extended" Loaded="lstNames_Loaded"/>
+        <ListBox x:Name="lstNames_1" HorizontalAlignment="Left" Height="220" Margin="513,89,0,0" VerticalAlignment="Top" Width="203"/>
+        <Button Content="&gt;" HorizontalAlignment="Left" Margin="340,112,0,0" VerticalAlignment="Top" Width="38" Click="Button_Click"/>
+        <Button Content="&gt;&gt;" HorizontalAlignment="Left" Margin="340,175,0,0" VerticalAlignment="Top" Width="38" Click="Button_Click_1"/>
+        <Button Content="&lt;" HorizontalAlignment="Left" Margin="340,231,0,0" VerticalAlignment="Top" Width="38" RenderTransformOrigin="0.578,-4.707" Click="Button_Click_2"/>
+        <Button Content="&lt;&lt;" HorizontalAlignment="Left" Margin="340,286,0,0" VerticalAlignment="Top" Width="38" RenderTransformOrigin="0.578,-1.014" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>

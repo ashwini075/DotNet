@@ -5,3 +5,10 @@ C:\Users\Admin\Desktop\.Net\Day2\StaticMembers\obj\Debug\StaticMembers.csprojAss
 C:\Users\Admin\Desktop\.Net\Day2\StaticMembers\obj\Debug\StaticMembers.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\.Net\Day2\StaticMembers\obj\Debug\StaticMembers.exe
 C:\Users\Admin\Desktop\.Net\Day2\StaticMembers\obj\Debug\StaticMembers.pdb
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day2\StaticMembers\bin\Debug\StaticMembers.exe.config
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day2\StaticMembers\bin\Debug\StaticMembers.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day2\StaticMembers\bin\Debug\StaticMembers.pdb
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day2\StaticMembers\obj\Debug\StaticMembers.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day2\StaticMembers\obj\Debug\StaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day2\StaticMembers\obj\Debug\StaticMembers.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day2\StaticMembers\obj\Debug\StaticMembers.pdb
