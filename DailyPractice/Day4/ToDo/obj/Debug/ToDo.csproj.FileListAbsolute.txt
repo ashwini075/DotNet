@@ -5,3 +5,10 @@ C:\Users\Admin\Desktop\.Net\Day4\ToDo\obj\Debug\ToDo.csprojAssemblyReference.cac
 C:\Users\Admin\Desktop\.Net\Day4\ToDo\obj\Debug\ToDo.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\.Net\Day4\ToDo\obj\Debug\ToDo.exe
 C:\Users\Admin\Desktop\.Net\Day4\ToDo\obj\Debug\ToDo.pdb
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day4\ToDo\bin\Debug\ToDo.exe.config
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day4\ToDo\bin\Debug\ToDo.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day4\ToDo\bin\Debug\ToDo.pdb
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day4\ToDo\obj\Debug\ToDo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day4\ToDo\obj\Debug\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day4\ToDo\obj\Debug\ToDo.exe
+C:\Users\Admin\Desktop\DotNet\DailyPractice\Day4\ToDo\obj\Debug\ToDo.pdb
